@@ -14,6 +14,8 @@ Desenvolvida com o tema escuro **Obsidian Neon**, a plataforma combina alto apel
 
 ## ✨ Recursos Principais
 
+https://rgis-samack.github.io/samack-smart/
+
 ### 1. Suporte a Múltiplos Formatos (Drag & Drop)
 Arraste e solte o arquivo da sua lista diretamente na interface. O dashboard processa e categoriza tudo localmente no seu navegador:
 *   **Listas M3U / M3U8**: Importação direta de arquivos de texto padrão de canais e VODs.
